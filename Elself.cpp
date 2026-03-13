@@ -20,7 +20,7 @@ int main() {
 
     cout << "Masukkan Nilai Bahasa Inggris = ";
     cin >> nilBI;
-    cout << "Masukkan Nilai Matematika = ";
+    cout << "Masukkan Nili Matematika = ";
     cin >> nilMT;
 
    //rerata = (nilBI+nilMT)/2;
